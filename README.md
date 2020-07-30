@@ -1,7 +1,5 @@
 ## Small project to learn React
 
-#
-
 ### Rating
 
 - Rating buttons: good, neutral, bad
