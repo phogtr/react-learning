@@ -1,5 +1,7 @@
 ## Small project to learn React
 
+Fullstackopen 2020
+
 #
 
 ### Rating
