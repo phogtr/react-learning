@@ -1,4 +1,6 @@
-## Small project to learn React
+## React-learning
+
+Small project to learn React
 
 Fullstackopen 2020
 
